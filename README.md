@@ -1,1 +1,2 @@
-Basic for loop practice in python 
+Python basic
+
